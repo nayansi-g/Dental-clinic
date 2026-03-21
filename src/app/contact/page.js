@@ -34,7 +34,7 @@ export default function ContactPage() {
       <div className="mx-auto grid max-w-6xl gap-10 px-4 py-20 md:grid-cols-2 md:px-8">
         <div className="bg-[#F6F5FB] p-10">
           <h2 className="mb-3 text-center text-3xl font-bold text-gray-900">
-            Request A Dental Appointment
+            Connect with us
           </h2>
           <p className="mx-auto mb-8 max-w-[480px] text-center text-sm leading-[1.8] text-gray-500">
             Send us your details and our team will help you schedule the right
@@ -46,12 +46,12 @@ export default function ContactPage() {
               <input
                 type="text"
                 placeholder="Full Name"
-                className="w-full rounded-md border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full rounded-md text-gray-400 border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <input
                 type="email"
                 placeholder="Email Address"
-                className="w-full rounded-md border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full rounded-md border text-gray-400 border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
@@ -59,26 +59,26 @@ export default function ContactPage() {
               <input
                 type="text"
                 placeholder="Phone Number"
-                className="w-full rounded-md border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full rounded-md border text-gray-400 border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <input
                 type="text"
                 placeholder="Preferred Service"
-                className="w-full rounded-md border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full rounded-md border text-gray-400 border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
             <textarea
               placeholder="Tell us about your concern or the appointment you would like to book"
               rows={5}
-              className="w-full rounded-md border border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full rounded-md border text-gray-400 border-gray-300 p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
 
             <button
               type="submit"
               className="w-full rounded-md bg-gradient-to-r from-blue-500 to-indigo-600 py-3 font-semibold text-white transition hover:opacity-90"
             >
-              SEND APPOINTMENT REQUEST
+              SEND MESSAGE 
             </button>
           </form>
         </div>
