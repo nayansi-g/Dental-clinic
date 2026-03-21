@@ -1,20 +1,20 @@
 export const clinic = {
-  name: "Decare Dental Clinic",
-  shortName: "Decare",
-  url: "https://www.decaredentalclinic.com",
-  email: "care@decaredentalclinic.com",
-  supportEmail: "appointments@decaredentalclinic.com",
+  name: "Crown Dental Clinic",
+  shortName: "Crown",
+  url: "https://www.crowndentalclinic.com",
+  email: "care@crowndentalclinic.com",
+  supportEmail: "appointments@crowndentalclinic.com",
   phone: "+91-7052-101-786",
   telephoneHref: "tel:+917052101786",
   priceRange: "$$",
   description:
-    "Decare Dental Clinic provides preventive, cosmetic, restorative, pediatric, and emergency dental care with experienced dentists, modern technology, and patient-first treatment plans.",
+    "Crown Dental Clinic provides preventive, cosmetic, restorative, pediatric, and emergency dental care with experienced dentists, modern technology, and patient-first treatment plans.",
   tagline: "Patient-first dental care for healthier, brighter smiles.",
   address: {
-    streetAddress: "1247 Plot No. 39, 15th Phase, LHB Colony",
-    addressLocality: "Kanpur",
+    streetAddress: "57, NCR, Azad Vihar, Khora Colony, Sector 62A",
+    addressLocality: "Noida",
     addressRegion: "Uttar Pradesh",
-    postalCode: "208011",
+    postalCode: "201020",
     addressCountry: "IN",
   },
   geo: {
@@ -26,10 +26,10 @@ export const clinic = {
     "Su 10:00-14:00",
   ],
   socialLinks: [
-    "https://www.facebook.com/decaredentalclinic",
-    "https://www.instagram.com/decaredentalclinic",
-    "https://x.com/decaredental",
-    "https://www.youtube.com/@decaredentalclinic",
+    "https://www.facebook.com/crowndentalclinic",
+    "https://www.instagram.com/crowndentalclinic",
+    "https://x.com/crowndental",
+    "https://www.youtube.com/@crowndentalclinic",
   ],
 };
 
@@ -52,8 +52,8 @@ export const serviceLinks = [
 ];
 
 export const homepageKeywords = [
-  "dental clinic in Kanpur",
-  "best dentist in Kanpur",
+  "dental clinic in Noida",
+  "best dentist in Noida",
   "emergency dental care",
   "cosmetic dentistry",
   "root canal treatment",

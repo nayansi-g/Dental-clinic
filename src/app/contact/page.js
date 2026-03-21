@@ -10,10 +10,10 @@ import {
 export const metadata = buildMetadata({
   title: "Contact Our Dental Clinic and Book Your Visit",
   description:
-    "Contact Decare Dental Clinic for appointments, treatment questions, emergency dental support, office hours, and clinic location details in Kanpur.",
+    "Contact Crown Dental Clinic for appointments, treatment questions, emergency dental support, office hours, and clinic location details in Noida.",
   path: "/contact",
   keywords: [
-    "contact dentist in Kanpur",
+    "contact dentist in Noida",
     "dental appointment contact",
     "emergency dental clinic phone number",
   ],

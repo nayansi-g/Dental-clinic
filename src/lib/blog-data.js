@@ -9,7 +9,7 @@ export const blogPosts = [
     excerpt:
       "Persistent tooth pain, swelling, and sensitivity can all point to deeper infection. Learn when a root canal may help save your natural tooth.",
     content:
-      "A root canal is often the most effective way to remove infection from deep inside the tooth while preserving its natural structure. If you notice ongoing sensitivity to hot or cold foods, pain while chewing, gum tenderness, or a darkening tooth, it is a good idea to schedule a dental exam quickly. Early diagnosis can reduce discomfort, prevent the infection from spreading, and help you avoid extraction. At Decare Dental Clinic, our dentists use digital imaging and patient-first treatment planning to make root canal care more comfortable and predictable.",
+      "A root canal is often the most effective way to remove infection from deep inside the tooth while preserving its natural structure. If you notice ongoing sensitivity to hot or cold foods, pain while chewing, gum tenderness, or a darkening tooth, it is a good idea to schedule a dental exam quickly. Early diagnosis can reduce discomfort, prevent the infection from spreading, and help you avoid extraction. At Crown Dental Clinic, our dentists use digital imaging and patient-first treatment planning to make root canal care more comfortable and predictable.",
     category: "Restorative Dentistry",
     tags: ["Root Canal", "Tooth Pain", "Dental Health"],
     featured: false,

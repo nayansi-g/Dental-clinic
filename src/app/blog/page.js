@@ -7,7 +7,7 @@ import { breadcrumbSchema, buildMetadata } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "Dental Blog With Oral Health Tips and Treatment Advice",
   description:
-    "Read dental blog articles from Decare Dental Clinic covering oral hygiene, root canal care, emergency dentistry, pediatric dental visits, and smile protection tips.",
+    "Read dental blog articles from Crown Dental Clinic covering oral hygiene, root canal care, emergency dentistry, pediatric dental visits, and smile protection tips.",
   path: "/blog",
   keywords: [
     "dental blog",

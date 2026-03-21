@@ -48,7 +48,7 @@ export default function BlogDetailsPage({ params }) {
     },
     publisher: {
       "@type": "Organization",
-      name: "Decare Dental Clinic",
+      name: "Crown Dental Clinic",
       logo: {
         "@type": "ImageObject",
         url: absoluteUrl("/Dental-logo.png"),

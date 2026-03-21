@@ -34,7 +34,7 @@ function DoctorCard({ doctor }) {
       <div className="overflow-hidden rounded-[6px]">
         <Image
           src={doctor.image}
-          alt={`${doctor.name}, ${doctor.role} at Decare Dental Clinic`}
+          alt={`${doctor.name}, ${doctor.role} at Crown Dental Clinic`}
           width={260}
           height={320}
           className="h-[460px] w-full object-cover sm:h-[300px] p-4 md:p-2 lg:p-1 md:h-[320px] lg:h-[340px] xl:h-[320px] 2xl:h-[350px]"

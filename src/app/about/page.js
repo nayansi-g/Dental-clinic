@@ -14,19 +14,19 @@ import {
 export const metadata = buildMetadata({
   title: "About Our Dental Clinic and Experienced Dentists",
   description:
-    "Learn about Decare Dental Clinic, our experienced dentists, patient-first philosophy, and our commitment to preventive, restorative, and emergency dental care.",
+    "Learn about Crown Dental Clinic, our experienced dentists, patient-first philosophy, and our commitment to preventive, restorative, and emergency dental care.",
   path: "/about",
   keywords: [
     "about dental clinic",
     "experienced dentist team",
     "patient-first dental care",
-    "family dentist in Kanpur",
+    "family dentist in Noida",
   ],
 });
 
 const aboutFaqs = [
   {
-    question: "What makes Decare Dental Clinic different?",
+    question: "What makes Crown Dental Clinic different?",
     answer:
       "We combine modern dental technology, experienced clinicians, and a calm patient-first approach so treatment feels more transparent, comfortable, and personalized.",
   },
@@ -69,7 +69,7 @@ export default function AboutPage() {
               <div className="relative overflow-hidden rotate-[4deg] rounded-[4px] p-3">
                 <Image
                   src="/about-img.png"
-                  alt="Dentist discussing treatment options with a patient at Decare Dental Clinic"
+                  alt="Dentist discussing treatment options with a patient at Crown Dental Clinic"
                   width={520}
                   height={560}
                   className="h-[360px] w-full object-cover sm:h-[440px] lg:h-[520px]"
@@ -98,7 +98,7 @@ export default function AboutPage() {
             </h2>
 
             <p className="mt-3 text-base leading-[1.8] text-[#7b7b7b] sm:mt-4 sm:text-[15px]">
-              Decare Dental Clinic was built to give patients a better dental
+              Crown Dental Clinic was built to give patients a better dental
               experience, one that combines preventive care, smile-focused
               treatments, and emergency support with clear communication at every
               step.

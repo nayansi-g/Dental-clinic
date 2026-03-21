@@ -25,10 +25,10 @@ import {
 export const metadata = buildMetadata({
   title: "Dental Services for Preventive, Cosmetic and Emergency Care",
   description:
-    "Explore Decare Dental Clinic services including root canal therapy, oral hygiene, cosmetic dentistry, cavity checks, family dental care, and emergency appointments.",
+    "Explore Crown Dental Clinic services including root canal therapy, oral hygiene, cosmetic dentistry, cavity checks, family dental care, and emergency appointments.",
   path: "/services",
   keywords: [
-    "dental services in Kanpur",
+    "dental services in Noida",
     "root canal treatment",
     "cosmetic dentist",
     "oral hygiene care",

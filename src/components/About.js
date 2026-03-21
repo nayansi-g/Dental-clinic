@@ -40,7 +40,7 @@ export default function AboutSection() {
           </h2>
 
           <p className="mt-3 text-base leading-[1.8] text-[#7b7b7b] sm:mt-4 sm:text-[15px]">
-            Decare Dental Clinic combines experienced dentists, digital diagnostics,
+            Crown Dental Clinic combines experienced dentists, digital diagnostics,
             and a calm patient-first environment to make routine visits and complex
             treatments feel more comfortable and more predictable.
           </p>

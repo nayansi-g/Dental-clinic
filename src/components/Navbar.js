@@ -6,22 +6,17 @@ import { clinic, primaryNav } from "@/lib/site";
 export default function Navbar() {
   return (
     <header className="sticky left-0 top-0 z-50 w-full border-b border-slate-200 bg-white/95 py-3 shadow-sm backdrop-blur-md">
-      <div className="mx-auto flex w-full max-w-[1440px] items-center justify-between px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16">
-        <Link
-          href="/"
-          className="relative flex h-10 w-[130px] shrink-0 items-center sm:h-12 sm:w-[150px] md:h-14 md:w-[170px] lg:h-16 lg:w-[190px] xl:h-[72px] xl:w-[210px]"
-          aria-label={`${clinic.name} homepage`}
-        >
-          <div className="relative h-20 w-[160px] md:h-26 md:w-[180px] lg:h-36 lg:w-[200px]">
-            <Image
-              src="/Dental-logo.png"
-              alt={`${clinic.name} logo`}
-              fill
-              className="object-contain overflow-y-hidden"
-              priority
-            />
-          </div>
-        </Link>
+      <div className="mx-auto flex w-full max-w-[1440px] h-18 items-center overflow-y-hidden justify-between px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16">
+        <Link href="/" className="flex items-center justify-start pt-4 overflow-y-hidden">
+  <Image
+    src="/first_logo.png"
+    alt="Logo"
+    width={220}
+    height={80}
+    className="h-auto w-[220px] md:w-[260px] lg:w-[270px]"
+    priority
+  />
+</Link>
 
         <nav className="hidden items-center gap-5 xl:gap-7 2xl:gap-8 lg:flex">
           {primaryNav.map((item) => (

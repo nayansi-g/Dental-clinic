@@ -19,7 +19,7 @@ const testimonials = [
 ];
 
 const clinicLocations = [
-  "Kanpur Branch",
+  
   "Lucknow Branch",
   "Delhi Branch",
   "Noida Branch",

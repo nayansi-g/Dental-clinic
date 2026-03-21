@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section className="relative overflow-hidden bg-[#eef2f7] px-4 sm:px-6 md:px-8 lg:px-10 ">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_left,rgba(255,255,255,0.95),transparent_35%),radial-gradient(circle_at_right,rgba(59,130,246,0.10),transparent_30%)]" />
 
-      <div className="site-shell relative grid min-h-[100svh] grid-cols-1 items-center gap-6 pt-16 sm:pt-20 md:pt-14 lg:min-h-[760px] lg:grid-cols-[minmax(0,1fr)_minmax(340px,600px)] lg:pt-0">
+      <div className="site-shell relative grid min-h-[100svh] grid-cols-1 items-center gap-6 pt-16 sm:pt-20 md:pt-10 lg:min-h-[760px] lg:grid-cols-[minmax(0,1fr)_minmax(340px,600px)] lg:pt-0">
         <div className="max-w-[640px] pb-2 lg:pb-10">
           <p className="mb-3 text-sm font-bold uppercase tracking-tight text-[#3563E9] sm:text-base md:text-lg">
             Welcome To {clinic.shortName}
@@ -48,7 +48,7 @@ export default function HeroSection() {
             <div className="absolute -bottom-20 left-1/2 z-10 w-[98%] max-w-[520px] -translate-x-1/2 sm:w-[84%] md:w-[82%] lg:w-[86%]">
               <Image
                 src="/Hero-img.png"
-                alt="Experienced dentist welcoming patients at Decare Dental Clinic"
+                alt="Experienced dentist welcoming patients at Crown Dental Clinic"
                 width={540}
                 height={700}
                 className="h-auto w-full object-contain object-bottom"
@@ -60,7 +60,7 @@ export default function HeroSection() {
               <div className="h-10 w-10 overflow-hidden rounded-full bg-[#d9e7ff] sm:h-12 sm:w-12 md:h-14 md:w-14">
                 <Image
                   src="/doctor4.png"
-                  alt="Lead dental specialist at Decare Dental Clinic"
+                  alt="Lead dental specialist at Crown Dental Clinic"
                   width={56}
                   height={56}
                   className="h-full w-full object-cover"

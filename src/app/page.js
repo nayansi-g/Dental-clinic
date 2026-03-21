@@ -12,18 +12,18 @@ import StructuredData from "@/components/StructuredData";
 import { buildMetadata, faqSchema, homepageKeywords } from "@/lib/site";
 
 export const metadata = buildMetadata({
-  title: "Dentist in Kanpur for Family, Cosmetic and Emergency Dental Care",
+  title: "Crown Dental Clinic & Implant Centre",
   description:
-    "Visit Decare Dental Clinic for preventive, cosmetic, restorative, pediatric, and emergency dental care in Kanpur. Book appointments with experienced dentists today.",
+    "Visit Crown Dental Clinic for preventive, cosmetic, restorative, pediatric, and emergency dental care in Noida. Book appointments with experienced dentists today.",
   path: "/",
   keywords: homepageKeywords,
 });
 
 const homeFaqs = [
   {
-    question: "Do you offer emergency dental treatment in Kanpur?",
+    question: "Do you offer emergency dental treatment in Noida?",
     answer:
-      "Yes. Decare Dental Clinic offers emergency dental support for tooth pain, swelling, broken teeth, and urgent oral health concerns.",
+      "Yes. Crown Dental Clinic offers emergency dental support for tooth pain, swelling, broken teeth, and urgent oral health concerns.",
   },
   {
     question: "Which dental services are available at your clinic?",

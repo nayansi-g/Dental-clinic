@@ -6,7 +6,7 @@ import { breadcrumbSchema, buildMetadata } from "@/lib/site";
 export const metadata = buildMetadata({
   title: "Book a Dental Appointment Online",
   description:
-    "Book an appointment with Decare Dental Clinic for routine checkups, cosmetic dentistry, emergency dental care, or family dental visits.",
+    "Book an appointment with Crown Dental Clinic for routine checkups, cosmetic dentistry, emergency dental care, or family dental visits.",
   path: "/book_an_appointment",
   keywords: [
     "book dental appointment",
